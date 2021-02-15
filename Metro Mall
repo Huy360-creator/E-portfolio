@@ -1,0 +1,36 @@
+<html>
+      <head>
+      <title>Metro Mall</title>
+      <style type="text/css">
+        body {
+        background-color: #d2b48c;
+      background-image: url(blackground .jfif); 
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-left: 20%
+      margin-right: 20%
+      border: 1px dotted gray
+      padding: 10px 10px 10px l0px;
+      font-family: sans-serif;
+      }
+      </style>
+      </head>
+      <body> 
+      <center>
+
+      <hl style="color:#F4F1Fl;">Weclomne to Metro Wall</hl>
+
+
+      <hl style="color:#F4F1Fl;">Where we located?</hl>   
+      <<ifrarne
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2605.5835362355224!2d
+      123.0021062844947!3d49.22742478260557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548676595c5fb407%3A0x70139844bf95bfa5!2sMetropolis%20at%20Metroto 
+      wn !5e0!3rn2 ! 1sen!2sca !4v1603124355003 !5m2! lsen !2sca" width="600" height="450"      
+      frarneborder="0" style=" border:0;" allowfullscreen="" aria-hidden="false"
+      tabindex="0"></ifrarne><width="300px">
+      <h1 style="color:#F4F1Fl;"> What it look likes</hl>
+      <img src="metro.jpg" width="550px">
+      <h2 style="color:ttF4F1Fl;">Feeling Thirsty? Check out one of the Cafe Shop Below</h2>
+      <h2><a href="Cafe Website.html">Click on us</a></h2>
+      </center>
+      </html>
